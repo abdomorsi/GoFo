@@ -30,11 +30,11 @@ They decided to build a system for booking playing hours in football playgrounds
     He can display the playgrounds near to him or in a specific location on specific dates. 
     He can filter them by the hours and date he selects. 
     He can book a time slot of 1 or more hours if available and not booked. 
-    Booking includes (1) Checking available grounds and time slots 
-                     (2) Selecting the free time slot(s) he wants 
-                     (3) Calculating the total price 
-                     (4) Paying the amount from his eWallet to the eWallet of the owner 
-                     (5) The system updates the status of the booked slot(s) so no one else can book it, and optionally 
+    Booking includes (1) Checking available grounds and time slots. 
+                     (2) Selecting the free time slot(s) he wants. 
+                     (3) Calculating the total price. 
+                     (4) Paying the amount from his eWallet to the eWallet of the owner. 
+                     (5) The system updates the status of the booked slot(s) so no one else can book it, and optionally. 
                      (6) The player can send invitation to his team members via email. 
     To make this last step easy, he can create his favorite team and store their names and emails. 
     Then he can select the entire team at once to send emails to. A player can also cancel a booking if within the cancellation period. 
